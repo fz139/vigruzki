@@ -1,4 +1,12 @@
-04.21.7.49</ip>
+.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7092768" includeTime="2024-06-04T00:25:02" entryType="1" hash="60EE34D2601E6A16777E867E847C5211" ts="2024-06-04T00:25:02">
+ <decision date="2024-05-24" number="2-6-14/2024-05-23-3603-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://sweetmarket-msk.ru/vyigryshnye-sloty/]]></url>
+ <domain><![CDATA[sweetmarket-msk.ru]]></domain>
+ <ip>104.21.7.49</ip>
  <ip>172.67.135.193</ip>
 </content>
 <content id="7092772" includeTime="2024-06-04T00:25:02" entryType="1" hash="68BE295547C2F7B18DE926EFA67FDAB1" blockType="domain-mask" ts="2024-06-04T00:25:02">
