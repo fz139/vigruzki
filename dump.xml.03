@@ -1,13 +1,4 @@
-Type="1" hash="B3000CF3CCDD23A0240F941AB58B40EE" blockType="domain" ts="2024-06-04T00:25:02">
- <decision date="2024-05-24" number="2-6-14/2024-05-22-10302-ÀÈ" org="ÔÍÑ"/>
- <domain><![CDATA[sokol152.ru]]></domain>
- <ip>104.21.74.193</ip>
- <ip>172.67.162.98</ip>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:4ac1</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:a262</ipv6>
-</content>
-<content id="7092259" includeTime="2024-06-04T00:25:02" entryType="1" hash="3E07BC69F80DD7593617E71CAB049967" blockType="domain" ts="2024-06-04T00:25:02">
- <decision date="2024-05-27" number="2-6-14/2024-05-24-3705-ÀÈ" org="ÔÍÑ"/>
+3705-ÀÈ" org="ÔÍÑ"/>
  <domain><![CDATA[cwceh.menuiseriemagnieu.fr]]></domain>
  <ip>104.21.41.17</ip>
  <ip>172.67.141.102</ip>
