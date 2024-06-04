@@ -1,40 +1,4 @@
-04.21.17.248</ip>
- <ip>172.67.178.230</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="7092251" includeTime="2024-06-04T00:25:02" entryType="1" hash="0105741B56B38B3B1964B47906DE091E" blockType="domain" ts="2024-06-04T00:25:02">
- <decision date="2024-05-24" number="2-6-14/2024-05-22-3315-ÀÈ" org="ÔÍÑ"/>
- <domain><![CDATA[xn--h1aaadbedjpjesi4d.xn--p1ai]]></domain>
- <ip>104.21.94.68</ip>
- <ip>172.67.220.139</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:dc8b</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:5e44</ipv6>
-</content>
-<content id="7092252" includeTime="2024-06-04T00:25:02" entryType="1" hash="F45D624F98F3825E3295E40643C02FA0" blockType="domain" ts="2024-06-04T00:25:02">
- <decision date="2024-05-27" number="2-6-14/2024-05-24-3723-ÀÈ" org="ÔÍÑ"/>
- <domain><![CDATA[mufgg.cosmelina.fr]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="7092255" includeTime="2024-06-04T00:25:02" entryType="1" hash="5C0F6D347041E99CFC32C365D2DBDF68" ts="2024-06-04T00:25:02">
- <decision date="2024-05-24" number="2-6-14/2024-05-22-10227-ÀÈ" org="ÔÍÑ"/>
- <url><![CDATA[https://driftcasino-holodos8.ru/igrovye-avtomaty/eastern-emeralds/]]></url>
- <domain><![CDATA[driftcasino-holodos8.ru]]></domain>
- <ip>104.21.96.14</ip>
- <ip>172.67.171.245</ip>
-</content>
-<content id="7092256" includeTime="2024-06-04T00:25:02" entryType="1" hash="C4A527F2C3855910774786A68EF363BB" blockType="domain" ts="2024-06-04T00:25:02">
- <decision date="2024-05-27" number="2-6-14/2024-05-24-3716-ÀÈ" org="ÔÍÑ"/>
- <domain><![CDATA[dzsyy.menuiseriemagnieu.fr]]></domain>
- <ip>104.21.41.17</ip>
- <ip>172.67.141.102</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:2911</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:8d66</ipv6>
-</content>
-<content id="7092258" includeTime="2024-06-04T00:25:02" entryType="1" hash="B3000CF3CCDD23A0240F941AB58B40EE" blockType="domain" ts="2024-06-04T00:25:02">
+Type="1" hash="B3000CF3CCDD23A0240F941AB58B40EE" blockType="domain" ts="2024-06-04T00:25:02">
  <decision date="2024-05-24" number="2-6-14/2024-05-22-10302-ÀÈ" org="ÔÍÑ"/>
  <domain><![CDATA[sokol152.ru]]></domain>
  <ip>104.21.74.193</ip>
