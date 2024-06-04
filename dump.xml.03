@@ -1,4 +1,11 @@
-7C7DCECE" ts="2024-06-03T17:05:03">
+05]]></url>
+ <domain><![CDATA[wwwzagon31.kinozi.bond]]></domain>
+ <ip>104.21.91.7</ip>
+ <ip>172.67.163.253</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:5b07</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:a3fd</ipv6>
+</content>
+<content id="7093222" includeTime="2024-06-03T17:05:03" entryType="2" hash="2820E30DA4E713375E538E417C7DCECE" ts="2024-06-03T17:05:03">
  <decision date="2022-08-19" number="определение о предварительном обеспечении по заявлению № 2И-9370/2022" org="Мосгорсуд"/>
  <url><![CDATA[https://tv37.lordseriy.fun/12366-zhizn-po-vyyzovu-itn-6.html]]></url>
  <domain><![CDATA[tv37.lordseriy.fun]]></domain>
@@ -6225,14 +6232,14 @@
  <ip>151.101.193.91</ip>
  <ip>151.101.65.91</ip>
 </content>
-<content id="7097471" includeTime="2024-06-04T17:25:01" urgencyType="1" entryType="3" hash="DC91068440DB934BF096716D3646819D" blockType="domain" ts="2024-06-04T17:25:01">
+<content id="7097471" includeTime="2024-06-04T17:25:01" urgencyType="1" entryType="3" hash="2D186C2A5457FD94C247BBB1C3A920DE" blockType="domain-mask" ts="2024-06-04T23:20:01">
  <decision date="2022-10-05" number="" org=""/>
- <domain><![CDATA[hey-echo.info]]></domain>
+ <domain><![CDATA[*.hey-echo.info]]></domain>
  <ip>3.64.41.233</ip>
 </content>
-<content id="7097472" includeTime="2024-06-04T17:25:01" urgencyType="1" entryType="3" hash="82C201074474A0D3B1EB7120442DA462" blockType="domain" ts="2024-06-04T17:25:01">
+<content id="7097472" includeTime="2024-06-04T17:25:01" urgencyType="1" entryType="3" hash="3A3DB897A4944FA0509BE7C5F925C49E" blockType="domain-mask" ts="2024-06-04T23:20:01">
  <decision date="2023-06-26" number="" org=""/>
- <domain><![CDATA[www.kavkaz-uzel.top]]></domain>
+ <domain><![CDATA[*.www.kavkaz-uzel.top]]></domain>
  <ip>82.94.172.189</ip>
 </content>
 <content id="7097502" includeTime="2024-06-04T18:50:03" entryType="5" hash="032E9637D36B9BB5CECF9C2AEEC2DB0D" blockType="domain" ts="2024-06-04T18:50:03">
