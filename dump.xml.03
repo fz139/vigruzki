@@ -1,4 +1,44 @@
-e="1" hash="19691846C4BBE463BB0AA682C8813602" ts="2024-06-04T00:25:02">
+04.21.7.49</ip>
+ <ip>172.67.135.193</ip>
+</content>
+<content id="7092772" includeTime="2024-06-04T00:25:02" entryType="1" hash="68BE295547C2F7B18DE926EFA67FDAB1" blockType="domain-mask" ts="2024-06-04T00:25:02">
+ <decision date="2024-05-24" number="2-6-14/2024-05-23-197-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.cazino-lex.com]]></domain>
+ <ip>104.21.33.15</ip>
+ <ip>172.67.139.165</ip>
+</content>
+<content id="7092775" includeTime="2024-06-04T00:25:02" entryType="1" hash="F2F047BA63EE122CACC65D2FC0846BC2" blockType="domain-mask" ts="2024-06-04T00:25:02">
+ <decision date="2024-05-23" number="2-6-14/2024-05-22-9511-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.1win-vhod.com]]></domain>
+ <ip>104.21.41.230</ip>
+ <ip>172.67.195.153</ip>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:29e6</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:ac43:c399</ipv6>
+</content>
+<content id="7092777" includeTime="2024-06-04T00:25:02" entryType="1" hash="0FF368650C9C9B603AAF21447A8435D7" blockType="domain" ts="2024-06-04T00:25:02">
+ <decision date="2024-05-24" number="2-6-14/2024-05-23-7585-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[shelf1.ru]]></domain>
+ <ip>104.21.15.209</ip>
+ <ip>172.67.164.61</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:0fd1</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:a43d</ipv6>
+</content>
+<content id="7092778" includeTime="2024-06-04T00:25:02" entryType="1" hash="E49B99B313CF79AA97B3DF6102D2C8B4" ts="2024-06-04T00:25:02">
+ <decision date="2024-05-23" number="2-6-14/2024-05-22-9547-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://playfortuna08zl.com/ru/news/show/indian-tour]]></url>
+ <domain><![CDATA[playfortuna08zl.com]]></domain>
+ <ip>45.159.216.2</ip>
+ <ip>45.159.219.254</ip>
+</content>
+<content id="7092782" includeTime="2024-06-04T00:25:02" entryType="1" hash="E674327AEF163EEEF3962EE2F9FBE4C4" blockType="domain" ts="2024-06-04T00:25:02">
+ <decision date="2024-05-23" number="2-6-14/2024-05-22-9148-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[untoldla.com]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7092783" includeTime="2024-06-04T00:25:02" entryType="1" hash="19691846C4BBE463BB0AA682C8813602" ts="2024-06-04T00:25:02">
  <decision date="2024-05-24" number="2-6-14/2024-05-23-151-ÀÈ" org="ÔÍÑ"/>
  <url><![CDATA[https://kaminzakaz.ru/aktualnoe-zerkalo-lex/]]></url>
  <domain><![CDATA[kaminzakaz.ru]]></domain>
