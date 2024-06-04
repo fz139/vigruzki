@@ -1,34 +1,4 @@
-ain>
- <ip>104.21.23.102</ip>
- <ip>172.67.210.120</ip>
-</content>
-<content id="7092243" includeTime="2024-06-04T00:25:02" entryType="1" hash="F6EFF4B1FF54D4784F5BD610F2A5F352" ts="2024-06-04T00:25:02">
- <decision date="2024-05-23" number="2-6-14/2024-05-23-4363-ÀÈ" org="ÔÍÑ"/>
- <url><![CDATA[https://leuvkz-dropbox.top/ru]]></url>
- <domain><![CDATA[leuvkz-dropbox.top]]></domain>
- <ip>46.101.139.102</ip>
- <ipv6>2a03:b0c0:0003:00d0:0000:0000:1605:1001</ipv6>
-</content>
-<content id="7092248" includeTime="2024-06-04T00:25:02" entryType="1" hash="14201B5842E894C59D6E9F1FCB35DC7F" blockType="domain" ts="2024-06-04T00:25:02">
- <decision date="2024-05-24" number="2-6-14/2024-05-23-7666-ÀÈ" org="ÔÍÑ"/>
- <domain><![CDATA[doodlecraft.ru]]></domain>
- <ip>188.114.96.9</ip>
- <ip>188.114.97.9</ip>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:1fc8</ipv6>
- <ipv6>2606:4700:3036:0000:0000:0000:ac43:b3ee</ipv6>
-</content>
-<content id="7092249" includeTime="2024-06-04T00:25:02" entryType="1" hash="CEEC10C40FD1DAB7BEA6FC1903952D6F" blockType="domain" ts="2024-06-04T00:25:02">
- <decision date="2024-05-23" number="2-6-14/2024-05-22-10159-ÀÈ" org="ÔÍÑ"/>
- <domain><![CDATA[rei20.kz]]></domain>
- <ip>104.21.84.37</ip>
- <ip>172.67.186.17</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:ba11</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:5425</ipv6>
-</content>
-<content id="7092250" includeTime="2024-06-04T00:25:02" entryType="1" hash="AC2CFE18B60156D8DE7A70F573D4CE2F" blockType="domain" ts="2024-06-04T00:25:02">
- <decision date="2024-05-24" number="2-6-14/2024-05-22-13085-ÀÈ" org="ÔÍÑ"/>
- <domain><![CDATA[sto-forsazh.ru]]></domain>
- <ip>104.21.17.248</ip>
+04.21.17.248</ip>
  <ip>172.67.178.230</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
@@ -8835,5 +8805,13 @@ ain>
  <domain><![CDATA[*.pin-up-casino-gy2.xyz]]></domain>
  <ip>162.19.253.38</ip>
  <ipv6>2001:41d0:0701:1100:0000:0000:0000:0ffe</ipv6>
+</content>
+<content id="7096094" includeTime="2024-06-04T11:20:03" urgencyType="1" entryType="3" hash="B151A3C6985F9348631D503E25AA89E5" blockType="domain-mask" ts="2024-06-04T11:20:03">
+ <decision date="2024-03-12" number="" org=""/>
+ <domain><![CDATA[*.rucriminal.io]]></domain>
+ <ip>104.21.94.22</ip>
+ <ip>172.67.218.104</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:5e16</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:da68</ipv6>
 </content>
 </reg:register>
