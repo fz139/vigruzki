@@ -10243,6 +10243,14 @@
  <domain><![CDATA[*.www.kavkaz-uzel.top]]></domain>
  <ip>82.94.172.189</ip>
 </content>
+<content id="7097473" includeTime="2024-06-05T17:40:02" urgencyType="1" entryType="3" hash="9ED3504C96C6D41742F308B3D41FA349" blockType="domain" ts="2024-06-05T17:40:02">
+ <decision date="2021-06-15" number="" org=""/>
+ <domain><![CDATA[call.mashina.org]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
 <content id="7097502" includeTime="2024-06-04T18:50:03" entryType="5" hash="032E9637D36B9BB5CECF9C2AEEC2DB0D" blockType="domain" ts="2024-06-04T18:50:03">
  <decision date="2024-06-03" number="1з-87328/2024" org="Минцифры"/>
  <domain><![CDATA[after-au.gudfilm2.art]]></domain>
