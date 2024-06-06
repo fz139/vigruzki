@@ -11213,11 +11213,10 @@ sk" ts="2024-06-04T00:25:02">
  <ipv6>2606:4700:3031:0000:0000:0000:6815:1017</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:ac43:a5f9</ipv6>
 </content>
-<content id="7097991" includeTime="2024-06-05T00:55:02" entryType="1" hash="242905CFCB44E0D37FD47BD25D5FD715" blockType="domain-mask" ts="2024-06-05T13:40:02">
+<content id="7097991" includeTime="2024-06-05T00:55:02" entryType="1" hash="7A7FEAB53239F3AC8FFBFAA516AE0F99" blockType="domain-mask" ts="2024-06-06T10:40:02">
  <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
  <domain><![CDATA[*.jozzl0f6.com]]></domain>
- <ip>167.99.132.162</ip>
- <ip>188.42.216.207</ip>
+ <ip>37.1.217.0</ip>
 </content>
 <content id="7097994" includeTime="2024-06-05T00:55:02" entryType="1" hash="D343EEA94A5A8A2872A87FC057328B73" blockType="domain-mask" ts="2024-06-05T13:40:02">
  <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
