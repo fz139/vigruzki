@@ -1,4 +1,28 @@
-sk" ts="2024-06-04T00:25:02">
+4" includeTime="2024-06-04T13:55:02" entryType="1" hash="78235D64866F3C2C5D03F80A5A4FB50A" blockType="domain-mask" ts="2024-06-04T13:55:02">
+ <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
+ <domain><![CDATA[*.virginiastation.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7094746" includeTime="2024-06-04T00:25:02" entryType="1" hash="99F5A1DE7E8C2D4E056CC449611B1666" blockType="domain-mask" ts="2024-06-04T00:25:02">
+ <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
+ <domain><![CDATA[*.r7-online-casino-o.buzz]]></domain>
+ <ip>104.21.69.84</ip>
+ <ip>172.67.206.134</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:4554</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:ce86</ipv6>
+</content>
+<content id="7094748" includeTime="2024-06-05T14:25:02" entryType="1" hash="35F710F91B452D11543410610F0089C7" blockType="domain" ts="2024-06-05T14:25:02">
+ <decision date="2024-06-03" number="2568439-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[xxx.bbsgayru24.com]]></domain>
+ <ip>104.21.45.26</ip>
+ <ip>172.67.208.19</ip>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:2d1a</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:d013</ipv6>
+</content>
+<content id="7094749" includeTime="2024-06-04T00:25:02" entryType="1" hash="085026046B44D627E240DFA015FD711C" blockType="domain-mask" ts="2024-06-04T00:25:02">
  <decision date="2024-05-28" number="2-6-14/2024-05-27-1792-АИ" org="ФНС"/>
  <domain><![CDATA[*.original-vulkan.click]]></domain>
  <ip>203.23.104.27</ip>
@@ -149,11 +173,15 @@ sk" ts="2024-06-04T00:25:02">
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7094776" includeTime="2024-06-04T13:55:02" entryType="1" hash="416520B20D2EC986E2F2BEBBDE9D7097" blockType="domain-mask" ts="2024-06-04T13:55:02">
+<content id="7094776" includeTime="2024-06-04T13:55:02" entryType="1" hash="C16956051492C0BD9189170B506FAD2C" blockType="domain-mask" ts="2024-06-06T11:00:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.ayurveda-nk.ru]]></domain>
+ <ip>104.21.91.233</ip>
+ <ip>172.67.181.159</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:b59f</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:5be9</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -2929,12 +2957,16 @@ sk" ts="2024-06-04T00:25:02">
  <ipv6>2606:4700:3032:0000:0000:0000:6815:1530</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:c469</ipv6>
 </content>
-<content id="7095522" includeTime="2024-06-05T14:25:02" entryType="1" hash="56E0ACE07795352670CF0D263C927643" ts="2024-06-05T14:25:02">
+<content id="7095522" includeTime="2024-06-05T14:25:02" entryType="1" hash="CB88D7A24EC6766A38E688ACE5134409" ts="2024-06-06T11:00:03">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://autopartner-service.ru/mef-sol-sk-amf-dzhimbaran-kupit.html]]></url>
  <domain><![CDATA[autopartner-service.ru]]></domain>
+ <ip>104.21.62.128</ip>
+ <ip>172.67.223.201</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3e80</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:dfc9</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -3099,11 +3131,15 @@ sk" ts="2024-06-04T00:25:02">
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
 </content>
-<content id="7095563" includeTime="2024-06-04T13:55:02" entryType="1" hash="60C91D6E297504A667B8883EA4FB2B80" blockType="domain-mask" ts="2024-06-04T13:55:02">
+<content id="7095563" includeTime="2024-06-04T13:55:02" entryType="1" hash="BB91F308B841A3C084CAEDDA7C575DAF" blockType="domain-mask" ts="2024-06-06T11:00:03">
  <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <domain><![CDATA[*.autopartner-service.ru]]></domain>
+ <ip>104.21.62.128</ip>
+ <ip>172.67.223.201</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3e80</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:dfc9</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
@@ -4726,12 +4762,16 @@ sk" ts="2024-06-04T00:25:02">
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
-<content id="7095973" includeTime="2024-06-05T14:25:02" entryType="1" hash="219DB6FAAE8733AD73AB964E00DA6638" ts="2024-06-05T14:25:02">
+<content id="7095973" includeTime="2024-06-05T14:25:02" entryType="1" hash="25BC27BB0330F46DCE0FA024142CC90E" ts="2024-06-06T11:00:03">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
  <url><![CDATA[https://ayurveda-nk.ru/zakladki-ekstazi-skorost-kupit-izhevsk.html]]></url>
  <domain><![CDATA[ayurveda-nk.ru]]></domain>
+ <ip>104.21.91.233</ip>
+ <ip>172.67.181.159</ip>
  <ip>188.114.96.1</ip>
  <ip>188.114.97.1</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:b59f</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:6815:5be9</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
 </content>
