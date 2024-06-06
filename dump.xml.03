@@ -3053,14 +3053,14 @@
  <domain><![CDATA[brightonenglishcenter.edu.co]]></domain>
  <ip>190.8.176.35</ip>
 </content>
-<content id="7095500" includeTime="2024-06-05T14:25:02" entryType="1" hash="12A1150BA9AFF9513D4FCB2BC95C90F4" ts="2024-06-05T14:25:02">
+<content id="7095500" includeTime="2024-06-05T14:25:02" entryType="1" hash="9181525BA038442009EC08A94EA08372" ts="2024-06-06T08:55:03">
  <decision date="2024-03-06" number="2024-02-27-3907-СОБ" org="Роскомнадзор"/>
  <url><![CDATA[https://www.privateproxyguide.com/ru/%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B5-vpn-%D0%B4%D0%BB%D1%8F-iphone-%D0%B8-ios/]]></url>
  <domain><![CDATA[www.privateproxyguide.com]]></domain>
- <ip>188.114.98.233</ip>
- <ip>188.114.99.233</ip>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0009</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0009</ipv6>
+ <ip>188.114.98.224</ip>
+ <ip>188.114.99.224</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
 </content>
 <content id="7095501" includeTime="2024-06-05T14:25:02" entryType="1" hash="02649DB16315EEB05741F5640039D4EF" ts="2024-06-05T14:25:02">
  <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
