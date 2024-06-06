@@ -1,66 +1,4 @@
-v6>
-</content>
-<content id="7095010" includeTime="2024-06-04T13:55:02" entryType="1" hash="FDF775A09E30A2B64F1A0FA3CD33307D" blockType="domain-mask" ts="2024-06-04T13:55:02">
- <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[*.malinaproject.ru]]></domain>
- <ip>104.21.8.235</ip>
- <ip>172.67.188.210</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:bcd2</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:08eb</ipv6>
-</content>
-<content id="7095016" includeTime="2024-06-05T14:25:02" entryType="1" hash="400E20806CB6483C4A189D3DD759D539" ts="2024-06-05T14:25:02">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://drinkandsing.ru/kraken-vhod-na-sajt.html]]></url>
- <domain><![CDATA[drinkandsing.ru]]></domain>
- <ip>104.21.12.246</ip>
- <ip>172.67.196.197</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:6815:0cf6</ipv6>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:c4c5</ipv6>
-</content>
-<content id="7095017" includeTime="2024-06-06T07:55:03" entryType="1" hash="5DDA82CE62B17D68F184924D9C218366" ts="2024-06-06T07:55:03">
- <decision date="2024-03-04" number="2024-02-27-3849-СОБ" org="Роскомнадзор"/>
- <url><![CDATA[https://service-status.online/rutracker-org-kak-poluchit-dostup-k-saytu-cherez-yandeks-bez-problem-i-blokirovok/]]></url>
- <domain><![CDATA[service-status.online]]></domain>
- <ip>104.21.72.110</ip>
- <ip>172.67.181.174</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:ac43:b5ae</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:486e</ipv6>
-</content>
-<content id="7095018" includeTime="2024-06-05T14:25:02" entryType="1" hash="7499290317C63D81D24850A99EB98FE7" ts="2024-06-05T14:25:02">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://people-coffee.ru/kupit-mefedron-mef-telegram-uvinza.html]]></url>
- <domain><![CDATA[people-coffee.ru]]></domain>
- <ip>104.21.70.190</ip>
- <ip>172.67.138.201</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:ac43:8ac9</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:46be</ipv6>
-</content>
-<content id="7095020" includeTime="2024-06-05T14:25:02" entryType="1" hash="66F11D4E98234F56E738C4F4ADB4A1E1" ts="2024-06-05T14:25:02">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://uroven47.ru/vzyat-geroin-po-zakladke.html]]></url>
- <domain><![CDATA[uroven47.ru]]></domain>
- <ip>104.21.31.61</ip>
- <ip>172.67.175.55</ip>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:af37</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:6815:1f3d</ipv6>
-</content>
-<content id="7095023" includeTime="2024-06-05T14:25:02" entryType="1" hash="21F3EFB511DE7D63576C27F989160C51" ts="2024-06-05T14:25:02">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://intech-dubna.ru/kak-zajti-na-sajt-kraken.html]]></url>
- <domain><![CDATA[intech-dubna.ru]]></domain>
- <ip>104.21.31.237</ip>
- <ip>172.67.180.202</ip>
- <ipv6>2606:4700:3032:0000:0000:0000:ac43:b4ca</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:1fed</ipv6>
-</content>
-<content id="7095026" includeTime="2024-06-05T14:25:02" entryType="1" hash="D8A000B18293E3ECB12211E45DBF2CB1" ts="2024-06-05T14:25:02">
- <decision date="2024-06-03" number="2568066-URL-on" org="Роскомнадзор"/>
- <url><![CDATA[https://sex-studentki.ws/hq-porn]]></url>
- <domain><![CDATA[sex-studentki.ws]]></domain>
- <ip>172.67.204.89</ip>
-</content>
-<content id="7095029" includeTime="2024-06-05T14:25:02" entryType="1" hash="1C244B8A9644836E6C5BAD3B9683D423" ts="2024-06-05T14:25:02">
- <decision date="2024-05-31" number="2024-05-24-3956" org="МВД"/>
+"/>
  <url><![CDATA[https://andrewpatapis.com/2019]]></url>
  <domain><![CDATA[andrewpatapis.com]]></domain>
  <ip>108.167.180.144</ip>
@@ -19845,15 +19783,6 @@ v6>
  <ipv6>2606:4700:3033:0000:0000:0000:6815:4d4f</ipv6>
  <ipv6>2606:4700:3033:0000:0000:0000:ac43:cd9d</ipv6>
 </content>
-<content id="7100582" includeTime="2024-06-05T16:55:02" entryType="2" hash="B72E03AA32394CD962A6CDE490C80BC7" ts="2024-06-05T16:55:02">
- <decision date="2024-05-24" number="определение о предварительном обеспечении по заявлению № 2И-11449/2024" org="Мосгорсуд"/>
- <url><![CDATA[https://s12.skladchikc.co/threads/artur-pogosjan-serial-killer-2023.220356/]]></url>
- <domain><![CDATA[s12.skladchikc.co]]></domain>
- <ip>104.21.61.38</ip>
- <ip>172.67.205.201</ip>
- <ipv6>2606:4700:3030:0000:0000:0000:ac43:cdc9</ipv6>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:3d26</ipv6>
-</content>
 <content id="7100583" includeTime="2024-06-05T16:55:02" entryType="2" hash="164B900D3E3CF4EE7F5E3CB6F4BDE523" ts="2024-06-05T16:55:02">
  <decision date="2023-04-06" number="определение о предварительном обеспечении по заявлению № 2И-3834/2023" org="Мосгорсуд"/>
  <url><![CDATA[https://jetfilmtfsbs27.kinozi.bond/cinema/19400268-На солнце, вдоль рядов кукурузы~9f-30-01]]></url>
@@ -22697,15 +22626,6 @@ v6>
  <url><![CDATA[http://74maj.kinosmile.pro/21943-letuchij-korabl-2024-05-24-20-02.html]]></url>
  <domain><![CDATA[74maj.kinosmile.pro]]></domain>
  <ip>147.45.43.8</ip>
-</content>
-<content id="7102911" includeTime="2024-06-05T16:55:02" entryType="2" hash="0E51E712C69373B55D34680B82C61CF2" ts="2024-06-05T16:55:02">
- <decision date="2021-12-10" number="определение о предварительном обеспечении по заявлению № 2И-15259/2021" org="Мосгорсуд"/>
- <url><![CDATA[https://hdkinogo.top/1286-trudnye-podrostki.html]]></url>
- <domain><![CDATA[hdkinogo.top]]></domain>
- <ip>104.21.20.187</ip>
- <ip>172.67.194.17</ip>
- <ipv6>2606:4700:3034:0000:0000:0000:6815:14bb</ipv6>
- <ipv6>2606:4700:3034:0000:0000:0000:ac43:c211</ipv6>
 </content>
 <content id="7102912" includeTime="2024-06-05T16:55:02" entryType="2" hash="A455FEC66F0205D706ED2BFC1F8013B3" ts="2024-06-05T16:55:02">
  <decision date="2024-02-06" number="определение о предварительном обеспечении по заявлению № 2И-2905/2024" org="Мосгорсуд"/>
