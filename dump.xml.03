@@ -1,48 +1,4 @@
-pv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="7095228" includeTime="2024-06-04T00:25:02" entryType="1" hash="9F29FEDA4CE0202F534ED684B9EC02F6" blockType="domain-mask" ts="2024-06-04T00:25:02">
- <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.vavadacasino1.top]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="7095231" includeTime="2024-06-04T00:25:02" entryType="1" hash="5857C59BFC0FC4C66BDCB93C9AF6D1DF" blockType="domain-mask" ts="2024-06-04T00:25:02">
- <decision date="2024-05-28" number="2-6-14/2024-04-28-183-АИ" org="ФНС"/>
- <domain><![CDATA[*.cat-casino-lml.buzz]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="7095232" includeTime="2024-06-04T00:25:02" entryType="1" hash="35ED538AA9452A0C537B1E4096CB3F6A" blockType="domain-mask" ts="2024-06-04T00:25:02">
- <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.vavada-mwi.buzz]]></domain>
- <ip>104.21.37.53</ip>
- <ip>172.67.204.199</ip>
- <ipv6>2606:4700:3033:0000:0000:0000:6815:2535</ipv6>
- <ipv6>2606:4700:3035:0000:0000:0000:ac43:ccc7</ipv6>
-</content>
-<content id="7095234" includeTime="2024-06-04T13:55:02" entryType="1" hash="AAAA22D657E8F0283D1660BFE954D3E1" blockType="domain-mask" ts="2024-06-04T13:55:02">
- <decision date="2024-04-22" number="2024-04-18-6213-СР" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <domain><![CDATA[*.blacksprutsite9.com]]></domain>
- <ip>45.147.197.40</ip>
-</content>
-<content id="7095236" includeTime="2024-06-04T00:25:02" entryType="1" hash="CB843028D74C1357C7C314D75F240B96" blockType="domain-mask" ts="2024-06-04T00:25:02">
- <decision date="2017-06-14" number="2-6-20/ 2017-06-14-6-АИ" org="Роскомнадзор, на основании ранее вынесенного решения (ФНС)"/>
- <domain><![CDATA[*.r7-casino.best]]></domain>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
- <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
- <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
-</content>
-<content id="7095238" includeTime="2024-06-05T14:25:02" entryType="1" hash="17104AC0FE5B88CE7C0819EB2834C417" ts="2024-06-05T14:25:02">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://planeta312.ru/kak-zajti-na-omg-omg.html]]></url>
- <domain><![CDATA[planeta312.ru]]></domain>
- <ip>188.114.96.1</ip>
+114.96.1</ip>
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
