@@ -38461,6 +38461,15 @@
  <ipv6>2606:4700:3033:0000:0000:0000:6815:3aef</ipv6>
  <ipv6>2606:4700:3035:0000:0000:0000:ac43:a643</ipv6>
 </content>
+<content id="7108593" includeTime="2024-06-08T17:25:02" entryType="2" hash="6946A1E528402A3ADE1127402F483049" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-03" number="определение о предварительном обеспечении по заявлению № 2И-12191/2024" org="Мосгорсуд"/>
+ <url><![CDATA[https://BestKnigi.com/proza/sovremennaja-proza/301331-ya-vybirayu-elis-dzhubi-syuzen.html]]></url>
+ <domain><![CDATA[bestknigi.com]]></domain>
+ <ip>104.21.55.134</ip>
+ <ip>172.67.148.50</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3786</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:9432</ipv6>
+</content>
 <content id="7108595" includeTime="2024-06-07T16:50:03" entryType="2" hash="B7F76ADD4A0675735E76AC9BA0783953" ts="2024-06-07T16:50:03">
  <decision date="2024-04-25" number="определение о предварительном обеспечении по заявлению № 2И-9468/2024" org="Мосгорсуд"/>
  <url><![CDATA[https://ya-znayu-kto-tebya-ubil.lordserial.fyi/]]></url>
@@ -49721,5 +49730,287 @@
  <ip>172.67.128.231</ip>
  <ipv6>2606:4700:3030:0000:0000:0000:ac43:80e7</ipv6>
  <ipv6>2606:4700:3036:0000:0000:0000:6815:024f</ipv6>
+</content>
+<content id="7112396" includeTime="2024-06-08T17:25:02" entryType="5" hash="57606C33E825A1B61556E169921117E0" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87699/2024" org="Минцифры"/>
+ <domain><![CDATA[b_at.gudfilm-0.mom]]></domain>
+ <ip>104.21.2.79</ip>
+ <ip>172.67.128.231</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:80e7</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:024f</ipv6>
+</content>
+<content id="7112397" includeTime="2024-06-08T17:25:02" entryType="5" hash="79DF14180DA7A6443CF91C7F657E45D9" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87700/2024" org="Минцифры"/>
+ <domain><![CDATA[lord-bh.gudfilm2.art]]></domain>
+ <ip>104.21.62.141</ip>
+ <ip>172.67.136.166</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:88a6</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3e8d</ipv6>
+</content>
+<content id="7112398" includeTime="2024-06-08T17:25:02" entryType="5" hash="18ACA88DAB17A489FCF2CE7FE8E88E25" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87701/2024" org="Минцифры"/>
+ <domain><![CDATA[zona_rs.gudfilm2.art]]></domain>
+ <ip>104.21.62.141</ip>
+ <ip>172.67.136.166</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:88a6</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3e8d</ipv6>
+</content>
+<content id="7112399" includeTime="2024-06-08T17:25:02" entryType="5" hash="16D8603F0B7CF7FD886A911FA34482A8" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87702/2024" org="Минцифры"/>
+ <domain><![CDATA[y1.gudfilm2.art]]></domain>
+ <ip>104.21.62.141</ip>
+ <ip>172.67.136.166</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:88a6</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3e8d</ipv6>
+</content>
+<content id="7112400" includeTime="2024-06-08T17:25:02" entryType="5" hash="2A0034863E5F4F82DB7E5A9D10ADF29D" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87703/2024" org="Минцифры"/>
+ <domain><![CDATA[m-9.gudfilm2.art]]></domain>
+ <ip>104.21.62.141</ip>
+ <ip>172.67.136.166</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:88a6</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3e8d</ipv6>
+</content>
+<content id="7112401" includeTime="2024-06-08T17:25:02" entryType="5" hash="1930E2BC83B032BCC75F3A6F6DDA4E18" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87706/2024" org="Минцифры"/>
+ <domain><![CDATA[hdmd-oa.gudfilm2.art]]></domain>
+ <ip>104.21.62.141</ip>
+ <ip>172.67.136.166</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:88a6</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3e8d</ipv6>
+</content>
+<content id="7112402" includeTime="2024-06-08T17:25:02" entryType="5" hash="9A39A50ABED8150823C140A4A1C60454" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87707/2024" org="Минцифры"/>
+ <domain><![CDATA[kinozadrot-eb.gudfilm2.art]]></domain>
+ <ip>104.21.62.141</ip>
+ <ip>172.67.136.166</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:88a6</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3e8d</ipv6>
+</content>
+<content id="7112403" includeTime="2024-06-08T17:25:02" entryType="5" hash="E016431A0183DB2DC43CCF99B6FB18B3" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87708/2024" org="Минцифры"/>
+ <domain><![CDATA[tv9.llordserial3.pro]]></domain>
+ <ip>5.45.65.9</ip>
+</content>
+<content id="7112404" includeTime="2024-06-08T17:25:02" entryType="5" hash="64F29B7C3021D8ED85862B3B6A61B72C" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87710/2024" org="Минцифры"/>
+ <domain><![CDATA[tv7.lordseriala2.pro]]></domain>
+ <ip>5.45.65.9</ip>
+</content>
+<content id="7112405" includeTime="2024-06-08T17:25:02" entryType="5" hash="E6618F08BCDCA99C85948D9943E49002" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87717/2024" org="Минцифры"/>
+ <domain><![CDATA[n2.lordserialz2.pro]]></domain>
+ <ip>5.45.65.9</ip>
+</content>
+<content id="7112406" includeTime="2024-06-08T17:25:02" entryType="5" hash="06148874361661B1006D51F18D3E5ABA" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87716/2024" org="Минцифры"/>
+ <domain><![CDATA[tv8.7lordserial.top]]></domain>
+ <ip>5.45.65.9</ip>
+</content>
+<content id="7112409" includeTime="2024-06-08T17:25:02" entryType="5" hash="E463E5EEA3B10826533A2298FD5F045B" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87718/2024" org="Минцифры"/>
+ <domain><![CDATA[tv.lordserial.green]]></domain>
+ <ip>104.21.75.221</ip>
+ <ip>172.67.182.105</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:b669</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:4bdd</ipv6>
+</content>
+<content id="7112410" includeTime="2024-06-08T17:25:02" entryType="5" hash="F0E82A7AEAB97388B8AFF231764235F7" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87709/2024" org="Минцифры"/>
+ <domain><![CDATA[videobox-fv.gudfilm2.art]]></domain>
+ <ip>104.21.62.141</ip>
+ <ip>172.67.136.166</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:88a6</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3e8d</ipv6>
+</content>
+<content id="7112411" includeTime="2024-06-08T17:25:02" entryType="5" hash="14C696BE75950C20C50F1D3FCE295A44" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87719/2024" org="Минцифры"/>
+ <domain><![CDATA[kinovod070624.pro]]></domain>
+ <ip>81.17.19.7</ip>
+</content>
+<content id="7112412" includeTime="2024-06-08T17:25:02" entryType="5" hash="39B8098657CF447323E49E95378D0749" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87720/2024" org="Минцифры"/>
+ <domain><![CDATA[kinovod080624.pro]]></domain>
+ <ip>81.17.19.7</ip>
+</content>
+<content id="7112413" includeTime="2024-06-08T17:25:02" entryType="5" hash="8958969531C8D4DF2D3879C877068B94" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87721/2024" org="Минцифры"/>
+ <domain><![CDATA[kinovod090624.pro]]></domain>
+ <ip>15.197.148.33</ip>
+ <ip>3.33.130.190</ip>
+</content>
+<content id="7112414" includeTime="2024-06-08T17:25:02" entryType="5" hash="5660BF11FB290A8B972945EDAD7190F4" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87725/2024" org="Минцифры"/>
+ <domain><![CDATA[n6.lordfilms3.pro]]></domain>
+ <ip>5.45.65.9</ip>
+</content>
+<content id="7112421" includeTime="2024-06-08T17:25:02" entryType="5" hash="231BDC3B21690AC278DD50C789F5B448" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87730/2024" org="Минцифры"/>
+ <domain><![CDATA[kinoland9101.buzz]]></domain>
+ <ip>104.21.10.145</ip>
+ <ip>172.67.163.152</ip>
+</content>
+<content id="7112422" includeTime="2024-06-08T17:25:02" entryType="5" hash="38AFD0CCD985FC3F7B587DDD3C62A7BC" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87731/2024" org="Минцифры"/>
+ <domain><![CDATA[go.lordfilm2.cc]]></domain>
+ <ip>104.21.12.242</ip>
+ <ip>172.67.153.241</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:99f1</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:0cf2</ipv6>
+</content>
+<content id="7112427" includeTime="2024-06-08T17:25:02" entryType="5" hash="7B79941980BA46D318BCF685C9B4307E" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87732/2024" org="Минцифры"/>
+ <domain><![CDATA[123.kinoland7070.buzz]]></domain>
+ <ip>104.21.62.19</ip>
+ <ip>172.67.217.232</ip>
+</content>
+<content id="7112428" includeTime="2024-06-08T17:25:02" entryType="5" hash="C130EC4470A8D272BFB424F3EE78A362" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87733/2024" org="Минцифры"/>
+ <domain><![CDATA[zetserial.live]]></domain>
+ <ip>104.21.66.85</ip>
+ <ip>172.67.157.253</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:4255</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:9dfd</ipv6>
+</content>
+<content id="7112431" includeTime="2024-06-08T17:25:02" entryType="5" hash="A6806834D699672461FA55097D4B7501" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87734/2024" org="Минцифры"/>
+ <domain><![CDATA[wa.kinoland5566.buzz]]></domain>
+ <ip>104.21.36.90</ip>
+ <ip>172.67.191.193</ip>
+</content>
+<content id="7112433" includeTime="2024-06-08T17:25:02" entryType="5" hash="F7D57B9E550E98CA09042280F15BBD4F" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87735/2024" org="Минцифры"/>
+ <domain><![CDATA[ww4.kinoland3333.buzz]]></domain>
+ <ip>104.21.67.49</ip>
+ <ip>172.67.213.208</ip>
+</content>
+<content id="7112436" includeTime="2024-06-08T17:25:02" entryType="5" hash="36CEF688E6FF85533CCA2DFCCEE782FD" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87736/2024" org="Минцифры"/>
+ <domain><![CDATA[hd8.lordfilmu1.online]]></domain>
+ <ip>104.21.23.26</ip>
+ <ip>172.67.208.115</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:171a</ipv6>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:d073</ipv6>
+</content>
+<content id="7112437" includeTime="2024-06-08T17:25:02" entryType="5" hash="22B9EA396BA9C771FEA39EE0CEFA6D1F" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87738/2024" org="Минцифры"/>
+ <domain><![CDATA[ru.lordfilms3.me]]></domain>
+ <ip>104.21.43.31</ip>
+ <ip>172.67.217.250</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:d9fa</ipv6>
+ <ipv6>2606:4700:3033:0000:0000:0000:6815:2b1f</ipv6>
+</content>
+<content id="7112438" includeTime="2024-06-08T17:25:02" entryType="5" hash="D5CAE35C2CF84B53F2D2F0487A039ACF" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87753/2024" org="Минцифры"/>
+ <domain><![CDATA[lordfilm-or.gudfilm2.art]]></domain>
+ <ip>104.21.62.141</ip>
+ <ip>172.67.136.166</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:88a6</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3e8d</ipv6>
+</content>
+<content id="7112445" includeTime="2024-06-08T17:25:02" entryType="5" hash="59D8CDC40E9F4BEAD1C5CA758E56E81F" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87757/2024" org="Минцифры"/>
+ <domain><![CDATA[h12.gudfilm.xyz]]></domain>
+ <ip>104.21.43.26</ip>
+ <ip>172.67.216.51</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:6815:2b1a</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:d833</ipv6>
+</content>
+<content id="7112446" includeTime="2024-06-08T17:25:02" entryType="5" hash="C80ACB89ADE805C886FB8EFC5F139E58" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87758/2024" org="Минцифры"/>
+ <domain><![CDATA[lord-ik.gudfilm2.art]]></domain>
+ <ip>104.21.62.141</ip>
+ <ip>172.67.136.166</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:88a6</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3e8d</ipv6>
+</content>
+<content id="7112447" includeTime="2024-06-08T17:25:02" entryType="5" hash="7C13A6738D1402142D313A2AE275CF34" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87759/2024" org="Минцифры"/>
+ <domain><![CDATA[k212.liveball.cc]]></domain>
+ <ip>188.114.98.224</ip>
+ <ip>188.114.99.224</ip>
+ <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
+ <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
+</content>
+<content id="7112448" includeTime="2024-06-08T17:25:02" entryType="5" hash="798EAB1F72DE60A5A458E78D4D211EFB" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87762/2024" org="Минцифры"/>
+ <domain><![CDATA[p2pvar6.top]]></domain>
+ <ip>117.55.202.226</ip>
+</content>
+<content id="7112449" includeTime="2024-06-08T17:25:02" entryType="5" hash="09122F90EB306D5CE07382333FF41691" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87764/2024" org="Минцифры"/>
+ <domain><![CDATA[i1.gudfilm2.art]]></domain>
+ <ip>104.21.62.141</ip>
+ <ip>172.67.136.166</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:88a6</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3e8d</ipv6>
+</content>
+<content id="7112450" includeTime="2024-06-08T17:25:02" entryType="5" hash="0536EE6897EEC3111896FBD5FF44F3D6" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87765/2024" org="Минцифры"/>
+ <domain><![CDATA[livetv789.me]]></domain>
+ <ip>104.21.28.254</ip>
+ <ip>172.67.171.51</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:ab33</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:1cfe</ipv6>
+</content>
+<content id="7112472" includeTime="2024-06-08T17:25:02" entryType="5" hash="D86AC51A6DAD30839C63BBE7D012ABB9" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87769/2024" org="Минцифры"/>
+ <domain><![CDATA[v8.lord-serial1.pro]]></domain>
+ <ip>5.45.65.9</ip>
+</content>
+<content id="7112473" includeTime="2024-06-08T17:25:02" entryType="5" hash="2940AC4A4F517E2C4FBE3DF00CBD8B88" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87774/2024" org="Минцифры"/>
+ <domain><![CDATA[kinoman-fa.gudfilm2.art]]></domain>
+ <ip>104.21.62.141</ip>
+ <ip>172.67.136.166</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:88a6</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:3e8d</ipv6>
+</content>
+<content id="7112474" includeTime="2024-06-08T17:25:02" entryType="5" hash="438E6FEE82A17203D8F240EAF827260B" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87784/2024" org="Минцифры"/>
+ <domain><![CDATA[kinogo.film]]></domain>
+ <ip>190.115.31.103</ip>
+</content>
+<content id="7112475" includeTime="2024-06-08T17:25:02" entryType="5" hash="51BB1692F9C86819A631900C55E1DE27" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87785/2024" org="Минцифры"/>
+ <domain><![CDATA[a3.kinogo-man.ru]]></domain>
+ <ip>104.21.78.93</ip>
+ <ip>172.67.219.99</ip>
+</content>
+<content id="7112476" includeTime="2024-06-08T17:25:02" entryType="5" hash="2D6F398DFFF82FC688AA208BBD6784D4" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87786/2024" org="Минцифры"/>
+ <domain><![CDATA[9.amdm.ru]]></domain>
+ <ip>104.21.82.184</ip>
+ <ip>172.67.161.115</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:52b8</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:a173</ipv6>
+</content>
+<content id="7112477" includeTime="2024-06-08T17:25:02" entryType="5" hash="272E6403EC3FF41085999589C9776CAC" blockType="domain" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-07" number="1з-87788/2024" org="Минцифры"/>
+ <domain><![CDATA[11.amdm.ru]]></domain>
+ <ip>104.21.82.184</ip>
+ <ip>172.67.161.115</ip>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:52b8</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:a173</ipv6>
+</content>
+<content id="7112478" includeTime="2024-06-08T17:25:02" entryType="2" hash="679A98DFB760CCD5F5F41A378E7AF76F" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-05" number="определение о предварительном обеспечении по заявлению № 2И-12292/2024" org="Мосгорсуд"/>
+ <url><![CDATA[https://s29.slivschool.com/threads/karina-kim-shkola-integrativnoj-genetiki-2023.34330/]]></url>
+ <domain><![CDATA[s29.slivschool.com]]></domain>
+ <ip>104.21.3.17</ip>
+ <ip>172.67.130.9</ip>
+</content>
+<content id="7112479" includeTime="2024-06-08T17:25:02" entryType="2" hash="3C53F877684A4EEAAD6FA4B9F7754F65" ts="2024-06-08T17:25:02">
+ <decision date="2024-06-05" number="определение о предварительном обеспечении по заявлению № 2И-12295/2024" org="Мосгорсуд"/>
+ <url><![CDATA[https://s2.vavilon.co/threads/vsja-pravda-o-kori-ekaterina-sugak.233846/]]></url>
+ <domain><![CDATA[s2.vavilon.co]]></domain>
+ <ip>104.21.70.24</ip>
+ <ip>172.67.218.114</ip>
+</content>
+<content id="7112480" includeTime="2024-06-08T17:25:02" entryType="2" hash="27E41FBAEB7576F71728B28E24B75023" ts="2024-06-08T17:25:02">
+ <decision date="2021-06-04" number="определение о предварительном обеспечении по заявлению № 2И-5142/2021" org="Мосгорсуд"/>
+ <url><![CDATA[https://kinovod040624.pro/serial/194206-klinika-schastya]]></url>
+ <domain><![CDATA[kinovod040624.pro]]></domain>
+ <ip>81.17.19.7</ip>
 </content>
 </reg:register>
