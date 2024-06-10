@@ -1,27 +1,4 @@
-<url><![CDATA[https://www.privateproxyguide.com/ru/%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B5-vpn-%D0%B4%D0%BB%D1%8F-iphone-%D0%B8-ios/]]></url>
- <domain><![CDATA[www.privateproxyguide.com]]></domain>
- <ip>188.114.98.224</ip>
- <ip>188.114.99.224</ip>
- <ipv6>2a06:98c1:3122:e000:0000:0000:0000:0000</ipv6>
- <ipv6>2a06:98c1:3123:e000:0000:0000:0000:0000</ipv6>
-</content>
-<content id="7095501" includeTime="2024-06-05T14:25:02" entryType="1" hash="02649DB16315EEB05741F5640039D4EF" ts="2024-06-05T14:25:02">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://jihong-logistics.ru/kupit-geroin-metadon-elektrougli.html]]></url>
- <domain><![CDATA[jihong-logistics.ru]]></domain>
- <ip>104.21.38.110</ip>
- <ip>172.67.222.66</ip>
- <ipv6>2606:4700:3031:0000:0000:0000:6815:266e</ipv6>
- <ipv6>2606:4700:3037:0000:0000:0000:ac43:de42</ipv6>
-</content>
-<content id="7095502" includeTime="2024-06-05T14:25:02" entryType="1" hash="9D5D27B02B9A979E6962CA7D59C3AD8C" ts="2024-06-05T14:25:02">
- <decision date="2023-09-01" number="2023-08-31-3201" org="Роскомнадзор, на основании ранее вынесенного решения (МВД)"/>
- <url><![CDATA[https://ega-onion-zerkalo.ru/2814]]></url>
- <domain><![CDATA[ega-onion-zerkalo.ru]]></domain>
- <ip>104.21.52.177</ip>
- <ip>172.67.202.89</ip>
- <ip>188.114.96.1</ip>
- <ip>188.114.97.1</ip>
+>188.114.97.1</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:6815:34b1</ipv6>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:ca59</ipv6>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
