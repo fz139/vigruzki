@@ -1,4 +1,10 @@
-Type="1" hash="652CD2897C693853B971CEF5A5C673B7" blockType="domain" ts="2024-06-05T00:55:02">
+in><![CDATA[vfgwu.etage-tattoo.fr]]></domain>
+ <ip>104.21.44.144</ip>
+ <ip>172.67.200.198</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2c90</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:c8c6</ipv6>
+</content>
+<content id="7096201" includeTime="2024-06-05T00:55:02" entryType="1" hash="652CD2897C693853B971CEF5A5C673B7" blockType="domain" ts="2024-06-05T00:55:02">
  <decision date="2024-05-27" number="2-6-14/2024-05-24-155-АИ" org="ФНС"/>
  <domain><![CDATA[eventkassa.ru]]></domain>
  <ip>104.21.36.149</ip>
@@ -19770,6 +19776,21 @@ Type="1" hash="652CD2897C693853B971CEF5A5C673B7" blockType="domain" ts="2024-06-
  <ip>188.114.97.1</ip>
  <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
  <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7103121" includeTime="2024-06-11T17:20:03" entryType="6" hash="A354EDECEDFB4DDD6716DD64CB4DF5E5" ts="2024-06-11T17:20:03">
+ <decision date="2022-12-26" number="2-3894/2022" org="Таганский районный суд - Москва"/>
+ <url><![CDATA[https://b.rynokshkur.info]]></url>
+ <domain><![CDATA[b.rynokshkur.info]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7103122" includeTime="2024-06-11T17:20:03" entryType="6" hash="604240242DCBC678DB36DB042968516B" blockType="domain" ts="2024-06-11T17:20:03">
+ <decision date="2023-03-21" number="2-881/2023" org="Таганский районный суд - Москва"/>
+ <domain><![CDATA[lv.blescort.to]]></domain>
+ <ip>104.21.80.128</ip>
+ <ip>172.67.181.18</ip>
 </content>
 <content id="7103132" includeTime="2024-06-05T19:35:02" urgencyType="1" entryType="3" hash="3D0D02852B8555D12FB8C78F464E7B7F" ts="2024-06-05T19:35:02">
  <decision date="2024-05-31" number="" org=""/>
@@ -66969,5 +66990,98 @@ Type="1" hash="652CD2897C693853B971CEF5A5C673B7" blockType="domain" ts="2024-06-
  <ip>172.67.168.116</ip>
  <ipv6>2606:4700:3032:0000:0000:0000:ac43:a874</ipv6>
  <ipv6>2606:4700:3037:0000:0000:0000:6815:2e6f</ipv6>
+</content>
+<content id="7117135" includeTime="2024-06-11T17:20:03" urgencyType="1" entryType="3" hash="F58A6D9306A6E7DAFA7DDE0AD8465A4C" blockType="domain" ts="2024-06-11T17:20:03">
+ <decision date="2023-01-26" number="" org=""/>
+ <domain><![CDATA[akayfype---ei3mgr4e-bsccljbcrq-ez.a.run.app]]></domain>
+ <ip>74.125.196.132</ip>
+</content>
+<content id="7117136" includeTime="2024-06-11T17:20:03" urgencyType="1" entryType="3" hash="503FD2CD09E9F0523C8DBEA774265A13" blockType="domain" ts="2024-06-11T17:20:03">
+ <decision date="2023-01-26" number="" org=""/>
+ <domain><![CDATA[yyjtqfvl---ei3mgr4e-bsccljbcrq-ez.a.run.app]]></domain>
+ <ip>74.125.196.132</ip>
+</content>
+<content id="7117137" includeTime="2024-06-11T17:20:03" urgencyType="1" entryType="3" hash="FFB46B2899DF94D1A62196924ED89F8D" blockType="domain" ts="2024-06-11T17:20:03">
+ <decision date="2023-01-26" number="" org=""/>
+ <domain><![CDATA[jpeqnojy---ei3mgr4e-bsccljbcrq-ez.a.run.app]]></domain>
+ <ip>74.125.196.132</ip>
+</content>
+<content id="7117138" includeTime="2024-06-11T17:20:03" urgencyType="1" entryType="3" hash="2D0647579FA98A5C98687436FAD4DA5A" blockType="domain" ts="2024-06-11T17:20:03">
+ <decision date="2023-01-26" number="" org=""/>
+ <domain><![CDATA[ba0vqhi5bb.execute-api.eu-central-1.amazonaws.com]]></domain>
+ <ip>18.194.22.216</ip>
+ <ip>52.29.52.194</ip>
+</content>
+<content id="7117139" includeTime="2024-06-11T17:20:03" urgencyType="1" entryType="3" hash="07F2E246DDC32BE0ED06E8FD27CD38B4" blockType="domain" ts="2024-06-11T17:20:03">
+ <decision date="2023-01-26" number="" org=""/>
+ <domain><![CDATA[keezlvmo---ei3mgr4e-bsccljbcrq-ez.a.run.app]]></domain>
+ <ip>74.125.196.132</ip>
+</content>
+<content id="7117140" includeTime="2024-06-11T17:20:03" urgencyType="1" entryType="3" hash="53F4642A7191D07137CF91FBCEE26D69" blockType="domain" ts="2024-06-11T17:20:03">
+ <decision date="2023-01-26" number="" org=""/>
+ <domain><![CDATA[ufpqvvdn---ei3mgr4e-bsccljbcrq-ez.a.run.app]]></domain>
+ <ip>74.125.196.132</ip>
+</content>
+<content id="7117141" includeTime="2024-06-11T17:20:03" urgencyType="1" entryType="3" hash="2FC36E3850F5FE1EFEF585CF50BC724E" blockType="domain" ts="2024-06-11T17:20:03">
+ <decision date="2023-01-26" number="" org=""/>
+ <domain><![CDATA[sxxqudkb---ei3mgr4e-bsccljbcrq-ez.a.run.app]]></domain>
+ <ip>74.125.196.132</ip>
+</content>
+<content id="7117142" includeTime="2024-06-11T17:20:03" urgencyType="1" entryType="3" hash="429E5360BFA28F4B15464CBEFEC60B73" blockType="domain" ts="2024-06-11T17:20:03">
+ <decision date="2023-01-26" number="" org=""/>
+ <domain><![CDATA[ffdwihuc---ei3mgr4e-bsccljbcrq-ez.a.run.app]]></domain>
+ <ip>74.125.196.132</ip>
+</content>
+<content id="7117143" includeTime="2024-06-11T17:20:03" urgencyType="1" entryType="3" hash="E75C0783BEA78297F2899E18EEA0A98B" blockType="domain" ts="2024-06-11T17:20:03">
+ <decision date="2023-01-26" number="" org=""/>
+ <domain><![CDATA[trhpmeuk---ei3mgr4e-bsccljbcrq-ez.a.run.app]]></domain>
+ <ip>74.125.196.132</ip>
+</content>
+<content id="7117144" includeTime="2024-06-11T17:20:03" urgencyType="1" entryType="3" hash="803784D51AF829F403AF1770EDDA809C" blockType="domain" ts="2024-06-11T17:20:03">
+ <decision date="2023-01-26" number="" org=""/>
+ <domain><![CDATA[oqkutnuh---ei3mgr4e-bsccljbcrq-ez.a.run.app]]></domain>
+ <ip>74.125.196.132</ip>
+</content>
+<content id="7117145" includeTime="2024-06-11T17:20:03" urgencyType="1" entryType="3" hash="196AE8899776D42C9457FA5942211804" blockType="domain" ts="2024-06-11T17:20:03">
+ <decision date="2023-01-26" number="" org=""/>
+ <domain><![CDATA[zjosbexw---ei3mgr4e-bsccljbcrq-ez.a.run.app]]></domain>
+ <ip>74.125.196.132</ip>
+</content>
+<content id="7117146" includeTime="2024-06-11T17:20:03" urgencyType="1" entryType="3" hash="0156D67B5A9D4F22D8DC5C845FAEFE5D" blockType="domain" ts="2024-06-11T17:20:03">
+ <decision date="2023-01-26" number="" org=""/>
+ <domain><![CDATA[tbrdrmgb---ei3mgr4e-bsccljbcrq-ez.a.run.app]]></domain>
+ <ip>74.125.196.132</ip>
+</content>
+<content id="7117147" includeTime="2024-06-11T17:20:03" urgencyType="1" entryType="3" hash="EE49D897E80AEA257115D23011DBAF86" blockType="domain" ts="2024-06-11T17:20:03">
+ <decision date="2023-01-26" number="" org=""/>
+ <domain><![CDATA[dxmkfkyp---ei3mgr4e-bsccljbcrq-ez.a.run.app]]></domain>
+ <ip>74.125.196.132</ip>
+</content>
+<content id="7117148" includeTime="2024-06-11T17:20:03" urgencyType="1" entryType="3" hash="51D7C431513710A90844CC2C1A9D2A2F" blockType="domain" ts="2024-06-11T17:20:03">
+ <decision date="2023-01-26" number="" org=""/>
+ <domain><![CDATA[einfsvpu---ei3mgr4e-bsccljbcrq-ez.a.run.app]]></domain>
+ <ip>74.125.196.132</ip>
+</content>
+<content id="7117414" includeTime="2024-06-11T17:20:03" urgencyType="1" entryType="3" hash="96D4F6B941E888C5DD623D0064EE0B11" blockType="domain" ts="2024-06-11T17:20:03">
+ <decision date="2024-03-12" number="" org=""/>
+ <domain><![CDATA[kompromat.gr]]></domain>
+ <ip>38.180.49.65</ip>
+ <ipv6>2a03:3f40:0002:0246:0000:0000:0000:0010</ipv6>
+</content>
+<content id="7118416" includeTime="2024-06-11T17:10:03" entryType="1" hash="D5493248AE4F82B023CF8F6C58263930" blockType="domain" ts="2024-06-11T17:10:03">
+ <decision date="2024-06-11" number="2582831-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[tv1.lordsfilm1.cc]]></domain>
+ <ip>104.21.78.60</ip>
+ <ip>172.67.217.57</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:4e3c</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:ac43:d939</ipv6>
+</content>
+<content id="7118417" includeTime="2024-06-11T17:10:03" entryType="1" hash="2A604D068826A515534009E978D7DAC8" blockType="domain" ts="2024-06-11T17:10:03">
+ <decision date="2024-06-11" number="2582832-URL-on" org="Роскомнадзор"/>
+ <domain><![CDATA[tv.lordserialu3.online]]></domain>
+ <ip>104.21.4.103</ip>
+ <ip>172.67.154.28</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:0467</ipv6>
+ <ipv6>2606:4700:3030:0000:0000:0000:ac43:9a1c</ipv6>
 </content>
 </reg:register>
