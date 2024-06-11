@@ -1,4 +1,83 @@
--06-05T00:55:02" entryType="1" hash="2BAC732161361A466E73D9C1B68BA1B1" blockType="domain" ts="2024-06-05T00:55:02">
+Type="1" hash="652CD2897C693853B971CEF5A5C673B7" blockType="domain" ts="2024-06-05T00:55:02">
+ <decision date="2024-05-27" number="2-6-14/2024-05-24-155-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[eventkassa.ru]]></domain>
+ <ip>104.21.36.149</ip>
+ <ip>172.67.195.31</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:6815:2495</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:c31f</ipv6>
+</content>
+<content id="7096203" includeTime="2024-06-05T00:55:02" entryType="1" hash="6C14EF91C4BAD027B9A699F3B6576368" blockType="domain" ts="2024-06-05T00:55:02">
+ <decision date="2024-05-28" number="2-6-14/2024-05-26-9849-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[monro-soch2.ru]]></domain>
+ <ip>104.21.33.145</ip>
+ <ip>172.67.146.104</ip>
+</content>
+<content id="7096204" includeTime="2024-06-05T00:55:02" entryType="1" hash="26355FF4B7DE9358EBC8A384616E8F86" blockType="domain" ts="2024-06-05T00:55:02">
+ <decision date="2024-05-27" number="2-6-14/2024-05-24-171-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[liseum6.ru]]></domain>
+ <ip>179.43.155.82</ip>
+</content>
+<content id="7096206" includeTime="2024-06-05T00:55:02" entryType="1" hash="1D63DEEE669F7D0A2EBB59B803377579" blockType="domain" ts="2024-06-05T00:55:02">
+ <decision date="2024-05-28" number="2-6-14/2024-05-26-9745-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[ljzpy.etage-tattoo.fr]]></domain>
+ <ip>104.21.44.144</ip>
+ <ip>172.67.200.198</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2c90</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:c8c6</ipv6>
+</content>
+<content id="7096208" includeTime="2024-06-05T00:55:02" entryType="1" hash="1B364C55BD52C43AFF9BFAA87846840E" blockType="domain" ts="2024-06-05T00:55:02">
+ <decision date="2024-05-27" number="2-6-14/2024-05-23-8729-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[jkrit.felix-s.fr]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7096209" includeTime="2024-06-05T00:55:02" entryType="1" hash="1C4C1811773BD637602F92C64F256AA7" ts="2024-06-05T00:55:02">
+ <decision date="2024-05-28" number="2-6-14/2024-05-26-9668-ÀÈ" org="ÔÍÑ"/>
+ <url><![CDATA[https://vavadagames.fun/ru/contactus]]></url>
+ <domain><![CDATA[vavadagames.fun]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7096211" includeTime="2024-06-05T00:55:02" entryType="1" hash="C6DAF49C608963708B45313AE9B7E8EA" blockType="domain" ts="2024-06-05T00:55:02">
+ <decision date="2024-05-27" number="2-6-14/2024-05-23-9808-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[no-genocide.ru]]></domain>
+ <ip>104.21.50.61</ip>
+ <ip>172.67.157.138</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:9d8a</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:6815:323d</ipv6>
+</content>
+<content id="7096212" includeTime="2024-06-05T00:55:02" entryType="1" hash="14D37931F2C1C6752527D5A7E10E9BAF" blockType="domain-mask" ts="2024-06-05T13:40:02">
+ <decision date="2024-05-28" number="2-6-14/2024-05-26-9716-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.cryptobosscasino.kz]]></domain>
+ <ip>81.91.178.100</ip>
+</content>
+<content id="7096213" includeTime="2024-06-05T00:55:02" entryType="1" hash="41D71A01AA59A355C4B76EBE205B5D40" blockType="domain" ts="2024-06-05T00:55:02">
+ <decision date="2024-05-27" number="2-6-14/2024-05-24-198-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[cjeva.cosmelina.fr]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7096214" includeTime="2024-06-05T00:55:02" entryType="1" hash="5A4BF4E13337EEC054CD66193347EF33" blockType="domain-mask" ts="2024-06-05T13:40:02">
+ <decision date="2024-05-27" number="2-6-14/2024-05-23-10040-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[*.lex-cazzino-slots-onlines31.top]]></domain>
+ <ip>104.21.38.247</ip>
+ <ip>172.67.141.39</ip>
+</content>
+<content id="7096217" includeTime="2024-06-05T00:55:02" entryType="1" hash="E3645641DC4B1FB22FDA0C3E9A3A2C68" blockType="domain" ts="2024-06-05T00:55:02">
+ <decision date="2024-05-27" number="2-6-14/2024-05-23-10104-ÀÈ" org="ÔÍÑ"/>
+ <domain><![CDATA[moscow-mramor.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7096218" includeTime="2024-06-05T00:55:02" entryType="1" hash="2BAC732161361A466E73D9C1B68BA1B1" blockType="domain" ts="2024-06-05T00:55:02">
  <decision date="2024-05-28" number="2-6-14/2024-05-26-9628-ÀÈ" org="ÔÍÑ"/>
  <domain><![CDATA[lvxyq.lherbierdesloufs.fr]]></domain>
  <ip>104.21.88.138</ip>
