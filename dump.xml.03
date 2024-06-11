@@ -1,4 +1,85 @@
-" number="2а-3508/13-2024" org="Ленинский районный суд г. Курска - Курская область"/>
+c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7096233" includeTime="2024-06-05T00:55:02" entryType="1" hash="142A2CD079778FEDDC25113FB5909494" blockType="domain" ts="2024-06-05T00:55:02">
+ <decision date="2024-05-28" number="2-6-14/2024-05-26-8562-АИ" org="ФНС"/>
+ <domain><![CDATA[yrtyv.23juin-architecture.fr]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7096234" includeTime="2024-06-06T07:55:03" entryType="1" hash="0A487C9C328C7EF48B6CCC30043A998E" ts="2024-06-06T07:55:03">
+ <decision date="2024-05-14" number="2а-4400/2024" org="Южно-Сахалинский городской суд - Сахалинская область"/>
+ <url><![CDATA[https://import-v-rossiu.ru/vvoz/syry-grana-padano-parmidzhano-redzhano/0406906100]]></url>
+ <domain><![CDATA[import-v-rossiu.ru]]></domain>
+ <ip>104.21.44.171</ip>
+ <ip>172.67.201.153</ip>
+ <ipv6>2606:4700:3032:0000:0000:0000:ac43:c999</ipv6>
+ <ipv6>2606:4700:3034:0000:0000:0000:6815:2cab</ipv6>
+</content>
+<content id="7096235" includeTime="2024-06-05T00:55:02" entryType="1" hash="C81B82E78D788C1E009D80147AFD4949" blockType="domain" ts="2024-06-05T00:55:02">
+ <decision date="2024-05-28" number="2-6-14/2024-05-26-8518-АИ" org="ФНС"/>
+ <domain><![CDATA[mdiuc.etage-tattoo.fr]]></domain>
+ <ip>104.21.44.144</ip>
+ <ip>172.67.200.198</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:2c90</ipv6>
+ <ipv6>2606:4700:3035:0000:0000:0000:ac43:c8c6</ipv6>
+</content>
+<content id="7096236" includeTime="2024-06-05T00:55:02" entryType="1" hash="2879D7A3FDA8A64D5DC9AC05D85A0C9B" blockType="domain" ts="2024-06-05T00:55:02">
+ <decision date="2024-05-27" number="2-6-14/2024-05-22-13108-АИ" org="ФНС"/>
+ <domain><![CDATA[pokrovo-marfinsky.ru]]></domain>
+ <ip>104.21.95.113</ip>
+ <ip>172.67.144.167</ip>
+ <ipv6>2606:4700:3030:0000:0000:0000:6815:5f71</ipv6>
+ <ipv6>2606:4700:3036:0000:0000:0000:ac43:90a7</ipv6>
+</content>
+<content id="7096237" includeTime="2024-06-06T07:55:03" entryType="1" hash="1EFD2C6560F30AF5D2BF61B8E1C65339" ts="2024-06-06T07:55:03">
+ <decision date="2024-05-30" number="2а-1318/2024" org="Правобережный районный суд г. Липецка - Липецкая область"/>
+ <url><![CDATA[https://smokenvape.shop/catalog/kuritelnye-trubki/]]></url>
+ <domain><![CDATA[smokenvape.shop]]></domain>
+ <ip>193.68.78.72</ip>
+</content>
+<content id="7096238" includeTime="2024-06-05T00:55:02" entryType="1" hash="64A0ACBD7669A7F11956EF4688DC80C7" blockType="domain" ts="2024-06-05T00:55:02">
+ <decision date="2024-05-28" number="2-6-14/2024-05-26-8507-АИ" org="ФНС"/>
+ <domain><![CDATA[tpxrw.23juin-architecture.fr]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+ <ipv6>2a06:98c1:3120:0000:0000:0000:0000:0001</ipv6>
+ <ipv6>2a06:98c1:3121:0000:0000:0000:0000:0001</ipv6>
+</content>
+<content id="7096241" includeTime="2024-06-05T00:55:02" entryType="1" hash="8C750B2FFCB19FC939B8FDC48A694BD3" blockType="domain" ts="2024-06-05T00:55:02">
+ <decision date="2024-05-27" number="2-6-14/2024-05-24-34-АИ" org="ФНС"/>
+ <domain><![CDATA[gk-ozpp.ru]]></domain>
+ <ip>104.21.21.90</ip>
+ <ip>172.67.197.84</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:c554</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:155a</ipv6>
+</content>
+<content id="7096242" includeTime="2024-06-05T00:55:02" entryType="1" hash="06C860B6625675213B22972A125B5544" ts="2024-06-05T00:55:02">
+ <decision date="2024-05-28" number="2-6-14/2024-05-26-8411-АИ" org="ФНС"/>
+ <url><![CDATA[https://a1b1.ru/jack-and-the-beanstalk/]]></url>
+ <domain><![CDATA[a1b1.ru]]></domain>
+ <ip>104.21.92.143</ip>
+ <ip>172.67.195.49</ip>
+ <ipv6>2606:4700:3031:0000:0000:0000:ac43:c331</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:5c8f</ipv6>
+</content>
+<content id="7096245" includeTime="2024-06-05T00:55:02" entryType="1" hash="85FF2B6D65EDF485A1C71569A96AEBE4" blockType="domain" ts="2024-06-05T00:55:02">
+ <decision date="2024-05-27" number="2-6-14/2024-05-24-51-АИ" org="ФНС"/>
+ <domain><![CDATA[rallyleningrad.ru]]></domain>
+ <ip>104.21.82.251</ip>
+ <ip>172.67.166.111</ip>
+ <ipv6>2606:4700:3034:0000:0000:0000:ac43:a66f</ipv6>
+ <ipv6>2606:4700:3037:0000:0000:0000:6815:52fb</ipv6>
+</content>
+<content id="7096249" includeTime="2024-06-05T00:55:02" entryType="1" hash="44126A266F95E1AB793BD44B09299877" blockType="domain" ts="2024-06-05T00:55:02">
+ <decision date="2024-05-27" number="2-6-14/2024-05-24-66-АИ" org="ФНС"/>
+ <domain><![CDATA[sensesclub.ru]]></domain>
+ <ip>188.114.96.1</ip>
+ <ip>188.114.97.1</ip>
+</content>
+<content id="7096252" includeTime="2024-06-05T00:55:02" entryType="1" hash="15F84A618175CF936BA1C98E47A2347C" ts="2024-06-05T00:55:02">
+ <decision date="2024-05-14" number="2а-3508/13-2024" org="Ленинский районный суд г. Курска - Курская область"/>
  <url><![CDATA[https://a.kursk777.com/page0.html]]></url>
  <domain><![CDATA[a.kursk777.com]]></domain>
  <ip>37.1.218.26</ip>
